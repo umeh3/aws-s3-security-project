@@ -10,7 +10,7 @@ This project demonstrates **secure AWS S3 bucket configurations** using **IAM po
 
 ---
 
-## 🛠️ **Step-by-Step Implementation**  
+##  **Step-by-Step Implementation**  
 
 ### **1️⃣ Create an S3 Bucket (AWS Console)**  
 - Go to **AWS S3** → Click **"Create Bucket"**.  
