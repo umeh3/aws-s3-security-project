@@ -12,7 +12,7 @@ This project demonstrates **secure AWS S3 bucket configurations** using **IAM po
 
 ##  **Step-by-Step Implementation**  
 
-### **1️⃣ Create an S3 Bucket (AWS Console)**  
+### ** 1. Create an S3 Bucket (AWS Console)**  
 - Go to **AWS S3** → Click **"Create Bucket"**.  
 - **Bucket Name:** `mikeumeh`  
 - **Block Public Access:**  **Enabled (Recommended)**  
@@ -21,7 +21,7 @@ This project demonstrates **secure AWS S3 bucket configurations** using **IAM po
 
 ---
 
-### **2️⃣ Apply Secure S3 Bucket Policy (AWS Console)**  
+### ** 2. Apply Secure S3 Bucket Policy (AWS Console)**  
 - Open **AWS S3 → mikeumeh → Permissions**.  
 - Scroll to **Bucket Policy** → Click **Edit**.  
 - Copy and paste this policy **(343218214491)**:  
